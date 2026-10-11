@@ -1,0 +1,2 @@
+W etapie 1 trzeba byłoby poprawić 10 miejsc(każdą metodę odpowiedzialną za dopisywanie cyfry.) 
+W etapie 3 wystarczy poprawić jedno miejsce(wspólną metodę appendSymbol, ponieważ wszystkie przyciski korzystają z tego samego kodu.)
